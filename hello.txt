@@ -1,1 +1,7 @@
 using kant-sae rsa ssh to verify the use of multiple GitHub account from same PC
+
+
+added local user.name and user.email for kant-sae account
+
+earlier -- commit was showed to have been originated from Pragya Karki
+
